@@ -1,2 +1,0 @@
-# kegControl
-Keg Control
